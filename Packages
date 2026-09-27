@@ -63,6 +63,22 @@ Author: Zane
 Name: AutoFreeRAM
 
 Package: com.zane.autofreeram
+Version: 1.0.12
+Architecture: iphoneos-arm64
+Maintainer: Zane
+Installed-Size: 372
+Depends: firmware (>= 15.0), mobilesubstrate | com.opa334.libhooker | me.jjolano.shadow, preferenceloader
+Filename: debs/com.zane.autofreeram_1.0.12_iphoneos-arm64.deb
+Size: 8258
+MD5sum: 5b312a2d50cc1981ab89ce22757fd98a
+SHA1: 8697e2a3edafc0ea99ad952388f58a8626e4f569
+SHA256: 98206826ca40acccb1e3b2cb6c6ace0844591eef0cea54e60293250a780a41c1
+Section: Tweaks
+Description: Automatically trims idle background apps to relieve memory pressure. Includes a Settings page with an on/off toggle, interval/threshold sliders, and a manual "Free Memory Now" button.
+Author: Zane
+Name: AutoFreeRAM
+
+Package: com.zane.autofreeram
 Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: Zane
